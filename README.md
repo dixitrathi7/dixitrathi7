@@ -1,9 +1,5 @@
-### Hi there I am [Dixit Rathi](https://linkfree.io/dixitrathi)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gauravrattan48)
+### Hi there I am [Dixit Rathi]
 [![LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLSi5jfe-FxK3X4dVWrcK6w)
 
 ---
 
@@ -20,5 +16,3 @@ I am a final year college student with a keen interest in cloud and DevOps.I am 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></p>
 
 ---
-### My Github Stats 📊
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravrattan&show_icons=true&theme=radical)
