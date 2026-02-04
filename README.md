@@ -1,8 +1,10 @@
-### Hi there I am [Dixit Rathi]
+### Hi there I am Dixit Rathi
 
 ---
 
-I am a final year college student with a keen interest in cloud and DevOps.I am passionate about cloud technologies and I love sharing my knowledge with others. I am always looking for new ways to learn and grow, and I am excited to help others do the same.
+I am a DevOps Engineer with 2 years of hands-on experience focused on building reliable, scalable cloud platforms and
+enabling fast, safe deployments. I simplify infrastructure complexity, improve developer workflows & continuously
+learn while building secure, high-availability systems.
 
 ---
 <h3 align="left">Languages and Tools⚙️:</h3>
