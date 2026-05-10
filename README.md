@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dixit Rathi</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | Automation | CI/CD</h3>
+<h3 align="center">🚀 SRE/DevOps Engineer | Cloud | Automation | CI/CD</h3>
 
 ---
 
